@@ -1,0 +1,24 @@
+### Components
+- Header
+    - Logo
+    - Navbar
+- Banner
+    - TrialInfo
+- Plans
+    - Plan
+        - Discount
+- ComparePlans
+    - PlanButton
+    - PlanPerk
+- GiftCard
+    - CardText
+    - CardImages
+- Footer
+    - FooterText
+    - StoreLinks
+    - FooterLinks
+        - Link
+    - ExtraInfo
+        - Socials
+        - Logo
+        - Copyright        
